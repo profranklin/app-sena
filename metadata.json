@@ -1,0 +1,6 @@
+{
+  "name": "AuthSystems",
+  "description": "A secure and modern authentication system featuring user registration, login, and profile management using Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
